@@ -6,7 +6,7 @@ This project showcases a modern and responsive landing page for a fictional coff
 
 ## 🌐 Live Preview
 
-👉 [View Live Demo](https://x0lg0n.github.io/CODSOFT-Task-1/)
+👉 [View Live Demo]((https://x0lg0n.github.io/COFFEE/))
 
 ## 🖼️ Preview
 
